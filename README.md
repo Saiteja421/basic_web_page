@@ -35,19 +35,3 @@ This project is a responsive web page, i.e. designed to adapt to different scree
    ```
    https://myresponsive-web-app.netlify.app/
    ```
-
-
-## License
-
-
-
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
-
-Feel free to customize this template according to your project's specific details and requirements. Provide clear instructions on how to install, use, and contribute to the project. Include relevant sections such as technologies used, features, and contact information.
-
-Remember to update the information and sections in the template to reflect the actual details of your responsive web page project.
-
-I hope this helps you create a README file for your responsive web page!
