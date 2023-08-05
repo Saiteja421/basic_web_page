@@ -31,7 +31,7 @@ This project is a responsive web page, i.e. designed to adapt to different scree
 
 3. Open the `index.html` file in a web browser.
 
-##Preview
+## Preview
    ```
    https://myresponsive-web-app.netlify.app/
    ```
