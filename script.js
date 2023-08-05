@@ -1,4 +1,3 @@
-"use strict";
 var UserStatus;
 (function (UserStatus) {
     UserStatus["LoggedIn"] = "Logged In";
@@ -438,7 +437,7 @@ const Menu = () => {
                     React.createElement("div", { className: "app-menu-content-header-section" },
                         React.createElement(UserStatusButton, { icon: "fa-solid fa-arrow-right-from-arc", id: "sign-out-button", userStatus: UserStatus.LoggedOut }))),
                 React.createElement(QuickNav, null),
-                React.createElement("a", { id: "github-link ", className: "clear-button", href: "https://github.com/Saiteja421", target: "_blank" },
+                React.createElement("a", { id: "github-link", className: "clear-button", href: "https://github.com/Saiteja421", target: "_blank" },
                     React.createElement("i", { className: "fab fa-github" }),
                     React.createElement("span", null, "Github")),
                 React.createElement(Weather, null),
